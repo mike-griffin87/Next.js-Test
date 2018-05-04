@@ -1,0 +1,423 @@
+[
+    {
+        "designer": "Designer A",
+        "blurb": "Blurb A",
+        "dresses": [
+            {"name": "Dress-1", "path": "./assets/images/1.jpg"},
+            {"name": "Dress-2", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer B",
+        "blurb": "Blurb B",
+        "dresses": [
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer C",
+        "blurb": "Blurb B2",
+        "dresses": [
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer D",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer E",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer F",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer G",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer H",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer I",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer J",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer K",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer L",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer M",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer N",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer O",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer P",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer Q",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer R",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer S",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer T",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer U",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer V",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer W",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer X",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer Y",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer Z",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer A1",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer B1",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer C1",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    },
+
+    {
+        "designer": "Designer D1",
+        "blurb": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue.",
+        "dresses": [
+            {"name": "Dress-1", "path": ""},
+            {"name": "Dress-2", "path": ""},
+            {"name": "Dress-3", "path": ""},
+            {"name": "Dress-4", "path": ""},
+            {"name": "Dress-5", "path": ""},
+            {"name": "Dress-6", "path": ""}
+        ]
+    }
+]
